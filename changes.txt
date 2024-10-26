@@ -1,0 +1,17 @@
+Jasmine
+
+V1.1
+Several methods added - dec, inc, neg, pow, constrain, lerp, map
+
+New more comprehensive examples added
+
+Some minor corrections to documentation both in reference and website.
+
+Methods added to show intermediate compiler stages - infix(), ast(), bytecode()
+
+V1.0.1
+No code changes, simply recompiled to ensure the library is compatible with both Processing 2 & 3.
+
+
+V1.0
+First release
