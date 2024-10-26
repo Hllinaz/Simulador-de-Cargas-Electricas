@@ -337,7 +337,7 @@ color colorCampo(float magnitudMinima, float magnitudCampo, float magnitudMaxima
   return lerpColor(colorInicio, colorFinal, escala);
 }
 
-int d;
+int d = 25;
 
 void keyPressed() {
   
